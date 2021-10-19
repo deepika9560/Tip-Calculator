@@ -1,0 +1,17 @@
+TEST CASES FOR TIP CALCULATOR
+1.It takes the amount in dollars and even takes decimal values.
+2.The amount in the output is upto two decimal places.
+3.There is a reset button to retest to 0.00.
+4.The value entered for the tip is in form of percentage.
+5.The output contains tip per person and amount per person.
+6.It is responsive in nature.
+7.The number of person cannot be zero hence it shows “can’t be zero” when you enter 0 in number of people field.
+8.The input field for the bill ,tip percent and number of people cannot take any other value except numbers.
+9.The output is produced as you entered the value.
+10.If any one field is entered by the user it shows “NAN” in the output.
+11.The size of fields or cards change according the values entered say if large values are entered then it adjust accordingly.
+12.If large values are entered the output comes in form of exponential.
+13.The button is clickable.
+
+
+
